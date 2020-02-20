@@ -282,7 +282,9 @@ that have been shared on Twitter.
 + [**chicrime** by *miningchi2*](https://miningchi2.shinyapps.io/chicrime): MiningChi - Chicago Crime Data Visualization
 + [**ChinaMap** by *yichuanw*](https://yichuanw.shinyapps.io/ChinaMap): China Mapping Application
 + [**chinese-diplomacy-and-financing** by *gbwalker*](https://gbwalker.shinyapps.io/chinese-diplomacy-and-financing): Elite Chinese Diplomacy and Financial Flows
++ [**chirp**](https://johncoene.shinyapps.io/chirp_demo/) Explore Twitter conversations
 + [**ChlamyNET** by *frannetworks*](https://frannetworks.shinyapps.io/ChlamyNET): ChlamyNET, a Chlamydomonas reinhardtii Gene Co-expression Network
++ [**coronavirus**](https://shiny.john-coene.com/coronavirus/) Coronavirus tracker built with shinyMobile
 + [**choropleth** by *jcheng*](https://jcheng.shinyapps.io/choropleth): Choropleths with Shiny and Leaflet
 + [**choropleth3** by *jcheng*](https://jcheng.shinyapps.io/choropleth3): US Population Density
 + [**Choughs** by *fomshinyapps*](https://fomshinyapps.shinyapps.io/Choughs): +++ Choughs Typisierung +++

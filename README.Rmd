@@ -700,6 +700,7 @@ that have been shared on Twitter.
 + [**hclust-shiny** by *joyofdata*](https://joyofdata.shinyapps.io/hclust-shiny): Hierarchical Clustering in Action
 + [**hdnom-app** by *gallery*](https://gallery.shinyapps.io/hdnom-app): hdnom.io - Nomograms for High-Dimensional Data
 + [**healthdatabreach** by *sungexplore*](https://sungexplore.shinyapps.io/healthdatabreach): Health Data Breaches
++ [**hinuhinu** by *MattOldach*](https://matthew-j-oldach.shinyapps.io/hinuhinu/) Create Maps of Hawaii directly from R and Shiny
 + [**healthplot** by *databiomics*](https://databiomics.shinyapps.io/healthplot): HealthPlot - Exploring public health in USA through R and Open Data
 + [**HEAT** by *whoequity*](https://whoequity.shinyapps.io/HEAT): Health Equity Assessment Toolkit
 + [**heatmap** by *stefanwilhelm*](https://stefanwilhelm.shinyapps.io/heatmap): Interactive Highcharts Heat Map in Shiny

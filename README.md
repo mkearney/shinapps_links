@@ -1353,7 +1353,8 @@ been shared on Twitter.
     Historical English Soccer Data
   - [**Enronapp** by
     *michaelc*](https://michaelc.shinyapps.io/Enronapp): Could we have
-    seen Enron coming?
+    seen Enron
+    coming?
   - [**Enronapp?utm\_content=bufferae006\&utm\_medium=social\&utm\_source=twitter.com\&utm\_campaign=buffer**
     by
     *michaelc*](https://michaelc.shinyapps.io/Enronapp?utm_content=bufferae006&utm_medium=social&utm_source=twitter.com&utm_campaign=buffer):
@@ -1867,6 +1868,9 @@ been shared on Twitter.
   - [**healthdatabreach** by
     *sungexplore*](https://sungexplore.shinyapps.io/healthdatabreach):
     Health Data Breaches
+  - [**hinuhinu** by
+    *MattOldach*](https://matthew-j-oldach.shinyapps.io/hinuhinu/)
+    Create Maps of Hawaii directly from R and Shiny
   - [**healthplot** by
     *databiomics*](https://databiomics.shinyapps.io/healthplot):
     HealthPlot - Exploring public health in USA through R and Open Data
